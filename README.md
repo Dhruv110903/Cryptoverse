@@ -1,7 +1,8 @@
 This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
-![Project Preview](./cryptoupdate.png)
-![Project Preview](./cryptoupdate2.png)
+![Project Preview](./cryptoverse1.png)
+![Project Preview](./cryptoverse2.png)
+![Project Preview](./cryptoverse3.png)
 
 ## Available Scripts
 
