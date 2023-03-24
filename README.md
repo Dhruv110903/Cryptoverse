@@ -26,7 +26,7 @@ React-router-dom: https://reactrouter.com/docs/en/v6/getting-started/overview
 HeroIcons: https://heroicons.com/
 Moment: https://momentjs.com/
 
+### Live Project
+https://crypto-verse11.netlify.app/
 
-### Video Tutorial
 
-You can see my youtube video for this project in [here](https://youtu.be/uiW4tArFLkE)
